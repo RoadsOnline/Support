@@ -4,7 +4,7 @@
 <html>
     <body>
     <h1>All Releases</h1>
-{% assign doclist = site.pages | sort: 'url'  %}
+{% assign doclist = site.pages | sort: 'url' | reverse  %}
 <ul>
    {% for doc in doclist %}
         {% if doc.include == true %}
