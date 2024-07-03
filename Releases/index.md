@@ -7,7 +7,7 @@
 {% assign doclist = site.pages | sort: 'url' | reverse  %}
 <ul>
    {% for doc in doclist %}
-        {% if doc.include == true %}
+        {% if doc.isReleaseDetails == true %}
             <li><a href="{{ site.baseurl }}{{ doc.url }}">{{doc.version}}</a> {{ doc.date }} - {{doc.summary}} </li>
         {% endif %}
     {% endfor %}
