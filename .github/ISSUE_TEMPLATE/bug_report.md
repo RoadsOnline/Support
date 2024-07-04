@@ -7,6 +7,9 @@ assignees: gbanfill
 
 ---
 
+**Module**
+Which module are you having trouble with: TTRO, Drivers, Permits, Critical Incidents, TRIPS
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
