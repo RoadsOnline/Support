@@ -9,6 +9,6 @@ Access to the [live system](https://roadsonline.co.uk/Admin). Requires a usernam
 Send an email with your question of problem to [support@roadsonline.co.uk](mailto:support@roadsonline.co.uk) or [create a ticket](https://github.com/RoadsOnline/Support/issues/new/choose) (Requires a GitHub account)
 
 # Releases
-Current Version: [2025.422.4017](Releases/2025.422.4017.md)
+Current Version: [2025.506.4075](Releases/2025.506.4075.md)
 
 [Release Log](Releases)
