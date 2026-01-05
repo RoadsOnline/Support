@@ -9,6 +9,6 @@ Access to the [live system](https://roadsonline.co.uk/Admin). Requires a usernam
 Send an email with your question of problem to [support@roadsonline.co.uk](mailto:support@roadsonline.co.uk) or [create a ticket](https://roadsonline.zohodesk.eu/portal/en/home) 
 
 # Releases
-Current Version: [2025.1215.5788](Releases/2025.1215.5788.md)
+Current Version: [2026.0105.5850](Releases/2026.0105.5850.md)
 
 [Release Log](Releases)
